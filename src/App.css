@@ -1,0 +1,145 @@
+.heading {
+  padding-bottom: 1px;
+  padding-top: 0px;
+  border-top: 3px solid black;
+  line-height: 10px;
+}
+.ico {
+  width: 50%;
+}
+.text_logo {
+  text-decoration: overline;
+}
+.nav_dec {
+  min-height: 40px;
+}
+.image_adjust {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  height: 100%;
+  width: 100%;
+}
+
+.card_adjust {
+  margin-left: 12%;
+  margin-right: 12%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 75%;
+  height: 75%;
+  background-color: white;
+}
+.nav_style {
+  -webkit-box-shadow: 0 8px 6px -6px #b1b3b2;
+  -moz-box-shadow: 0 8px 6px -6px #b1b3b2;
+  box-shadow: 0 8px 6px -6px #b1b3b2;
+  padding-bottom: 8px;
+}
+.hov:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
+  text-underline-offset: 8px;
+  color: #87deab;
+}
+.text_dec:hover {
+  color: #77b894;
+  margin-top: 0px;
+}
+.list_dec ul {
+  line-height: 0.5rem;
+}
+.scroll {
+  width: 200px;
+  height: 500px;
+  overflow-x: auto;
+  overflow-y: auto;
+  overflow: visible;
+}
+
+.iconify {
+  color: #77b894;
+  margin-right: 10px;
+}
+.btn_dec {
+  background-color: #77b894;
+  border-radius: 10px; /* Green */
+
+  color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 10px;
+}
+.btn_share {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  border: 1px solid #77b894;
+  padding: 5px 15px;
+  color: #77b894;
+
+  position: relative;
+  bottom: 95px;
+  left: 700px;
+  font-weight: bold;
+}
+
+.colorify {
+  font-size: 20px;
+  font-weight: bold;
+  color: #77b894;
+}
+.font_dec {
+  font-size: 20px;
+  font-weight: bold;
+}
+.font_siz {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+.font_ug {
+  font-size: 20px;
+}
+.dash {
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.logo_adjust {
+  width: 50px;
+}
+.date {
+  color: #9c9e9d;
+}
+.share_adjust {
+  background-color: white;
+}
+
+.mr_left {
+  margin-left: 35px;
+}
+.mr_right {
+  margin-right: 10px;
+}
+.article-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.article1 {
+  flex: 0 0 40%;
+}
+.article2 {
+  flex: 0 0 50%;
+  margin-left: 70px;
+  margin-top: 50px;
+  overflow-y: scroll;
+}
+p {
+  margin-top: 10px;
+}
+.nav_height {
+  height: 20%;
+}
